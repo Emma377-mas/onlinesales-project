@@ -27,6 +27,17 @@ Explaratory data analysis involved exploring the sales data to answer key questi
   as duplicate_count
   from
   `````````````
-  
+  ### Results / findings
+  The analysis results are summarised as follows
+  1. Product category Electronics is the best perfoming category in terms of sales and revenue
+  2. Credit card payment method has high revenue turn out
+  3. North America sold many units
+  ### Recommendations
+  Based on the analysisi ,we recommend the following actions :
+  1. Invest in marketing and promotions during the peak sales seasons to maximise revenue
+  2. Focus on expanding and promoting in category
+  3. Implement a customer segmentation strategy to target highLTV customers effectively
+  ### References
+  1. SQL For business by WERTY
 
   
