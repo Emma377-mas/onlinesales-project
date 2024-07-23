@@ -6,6 +6,7 @@
 - [Data cleaning and preparation](#data-cleaning-and-preparation)
 - [Explaratory data analysis](#explaratory-data-analysis)
 - [Data analysis](#data-analysis)
+- [Results/findings](#results-findings)
 
 ### Project overview preview
 This data analysis project aims to provide insights into the online sales perfomance within regions .
