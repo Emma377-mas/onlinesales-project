@@ -8,6 +8,7 @@
 - [Data analysis](#data-analysis)
 - [Results/findings](#results-findings)
 - [Recommendations](#recommendations)
+- [References](#references)
 
 ### Project overview preview
 This data analysis project aims to provide insights into the online sales perfomance within regions .
