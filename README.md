@@ -19,6 +19,14 @@ Explaratory data analysis involved exploring the sales data to answer key questi
 - What is the overall seasonal sales trends
 - What is the top selling product category
 - What is the impact of methods of payment on sales revenue
+  ### Data analysis
+  worked with some interesting codes in SQL like
+  ``````````
+  select Transaction_id,
+  count(*)
+  as duplicate_count
+  from
+  `````````````
   
 
   
