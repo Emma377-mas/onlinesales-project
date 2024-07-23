@@ -13,5 +13,12 @@ detailed information about each sale made
 ### Data cleaning and preparaion 
 In the initial data preparation phase ,we performed the following task 
 1. Data loading and inspection
-2. Data cleaning and formating 
+2. Data cleaning and formating
+### Explaratory data analysis 
+Explaratory data analysis involved exploring the sales data to answer key questions such as
+- What is the overall seasonal sales trends
+- What is the top selling product category
+- What is the impact of methods of payment on sales revenue
+  
+
   
