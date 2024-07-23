@@ -1,6 +1,6 @@
 # onlinesales-project
 ## Table of contents 
-- [project overview].(#project-overview).
+
 ### Project overview preview
 This data analysis project aims to provide insights into the online sales perfomance within regions .
 By analyzing various aspects of the sales data we seek to identify trends ,make data driven recommendationsand gain
