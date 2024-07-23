@@ -3,6 +3,7 @@
 - [Project overview](#project-overview)
 - [Data source](#data-source)
 - [Tools](#tools)
+- [Data cleaning and preparation](#data-cleaning-and-preparation)
 
 ### Project overview preview
 This data analysis project aims to provide insights into the online sales perfomance within regions .
