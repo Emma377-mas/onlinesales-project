@@ -10,4 +10,8 @@ detailed information about each sale made
 - Excel (data cleaning )
 - SQL (data analysis )
 - Power bi (creating reports)
+### Data cleaning and preparaion 
+In the initial data preparation phase ,we performed the following task 
+1. Data loading and inspection
+2. Data cleaning and formating 
   
